@@ -1,5 +1,9 @@
 # Tuesday 17 November 2026 — the world's news on one front page
 
+[![news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Thedzulkarnain/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Thedzulkarnain/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 This entry sums up Tuesday 17 November 2026's world news in a single image:
 a one-page newspaper front page, headlined with the day's date, that a reader
 can take in at a glance and then keep reading.
