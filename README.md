@@ -7,17 +7,17 @@
 This entry sums up Tuesday 17 November 2026's world news in a single image:
 a one-page newspaper front page, headlined with the day's date, that a reader
 can take in at a glance and then keep reading. Its strapline reads
-"20 STORIES · 6 CONTINENTS · ALL FROM TUESDAY".
+"45 STORIES · 6 CONTINENTS · ALL FROM TUESDAY".
 
-A "NUMBERS OF THE DAY" strip runs across the page — 19 crew lost in a crash,
-$115.8bn in Nvidia quarterly sales, 11,000 Ebola cases, and climate summit
-COP 31. Three illustrated lead stories anchor the page: a Crimea Bridge road
-span collapses, Iran and the US exchange strikes, and Trump holds the first
-Quad Summit. Below them, ten more stories fill two rows of five, and a world
-map with six numbered pins — Americas, Europe, Middle East, Asia, Africa,
-Oceania — comes with a legend so every pin can be placed at a glance. An
-"ALSO ON TUESDAY" list of five more stories closes the page, so the whole
-day fits on it.
+A stats strip runs across the page — 11,000+ Ebola cases, $115.8bn in Nvidia
+quarterly sales, a Dow fall of 849, 1,441 drones, 2m+ barrels, and Voyager
+1 light-day from Earth. Three illustrated lead stories anchor the page: a
+Kerch Bridge road span falls into the sea, Iran sends drones at a US radar
+in Bahrain and the US hits back, and Trump holds his first Quad summit in
+Manila. Below them, ten more stories fill two rows of five, and a world map
+with numbered pins and a continent legend shows where the day's news
+happened. An "ALSO ON TUESDAY 17 NOVEMBER" list of 32 more stories
+(items 14–45) closes the page, so the whole day fits on it.
 
 ## How it works
 
