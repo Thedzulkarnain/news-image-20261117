@@ -6,13 +6,18 @@
 
 This entry sums up Tuesday 17 November 2026's world news in a single image:
 a one-page newspaper front page, headlined with the day's date, that a reader
-can take in at a glance and then keep reading.
+can take in at a glance and then keep reading. Its strapline reads
+"20 STORIES · 6 CONTINENTS · ALL FROM TUESDAY".
 
-The front page carries 43 stories from 6 continents. Three illustrated lead
-stories anchor it: the Kerch Bridge, the Strait of Hormuz, and the Quad
-summit in Manila. A stats strip runs across the page, a world map with pins
-shows where the day's news happened, and a numbered "Also on Tuesday" list
-rounds up the day's remaining stories, so the whole day fits on the page.
+A "NUMBERS OF THE DAY" strip runs across the page — 19 crew lost in a crash,
+$115.8bn in Nvidia quarterly sales, 11,000 Ebola cases, and climate summit
+COP 31. Three illustrated lead stories anchor the page: a Crimea Bridge road
+span collapses, Iran and the US exchange strikes, and Trump holds the first
+Quad Summit. Below them, ten more stories fill two rows of five, and a world
+map with six numbered pins — Americas, Europe, Middle East, Asia, Africa,
+Oceania — comes with a legend so every pin can be placed at a glance. An
+"ALSO ON TUESDAY" list of five more stories closes the page, so the whole
+day fits on it.
 
 ## How it works
 
@@ -26,8 +31,8 @@ Run it with Node 22, no network needed:
 node main.ts
 ```
 
-Set `OUT_DIR` to write somewhere other than `/output` (for example,
-`OUT_DIR=out node main.ts` for a local check). The program is deterministic:
+Set `MAKEFUN_OUTPUT_DIR` to write somewhere other than `/output` (for example,
+`MAKEFUN_OUTPUT_DIR=out node main.ts` for a local check). The program is deterministic:
 the same input bytes always produce the same output bytes.
 
 ## License
